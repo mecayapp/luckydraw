@@ -7,7 +7,7 @@
   "display": "standalone",
   "background_color": "#030207",
   "theme_color": "#0b0716",
-  "description": "Kick ve Twitch yayıncıları için biletli çekiliş, şans çarkı ve kutu açma.",
+  "description": "Kick ve Twitch yayıncıları için çekiliş, şans çarkı, kutu açma, bilye yarışı ve sohbet oyunları.",
   "icons": [
     {
       "src": "assets/icons/icon-192.png",

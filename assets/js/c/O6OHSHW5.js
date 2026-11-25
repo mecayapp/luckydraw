@@ -1,0 +1,1 @@
+var t={offset:0,set:!1};function r(n,o){let e=Date.parse(n);if(!Number.isFinite(e))return;let s=Date.now(),c=o?Math.max(0,s-o):0,f=e+c/2-s;t.offset=t.set?t.offset*.7+f*.3:f,t.set=!0}var a=()=>Date.now()+(t.offset||0);export{r as a,a as b};
